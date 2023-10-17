@@ -1,0 +1,6 @@
+[submodule "themes/geek"]
+	path = themes/geek
+	url = https://github.com/sanjinhub/hexo-theme-geek.git
+[submodule "themes/nayo"]
+	path = themes/nayo
+	url = https://github.com/Lemonreds/hexo-theme-Nayo
